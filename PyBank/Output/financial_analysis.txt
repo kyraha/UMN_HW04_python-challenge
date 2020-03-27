@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+Number of unique months: 86
+Net total: $38,382,578
+Average change: $-2,315.12
+Greatest Increase: Feb-2012 $1,926,159
+Greatest Decrease: Sep-2013 $-2,196,167
